@@ -1,0 +1,2 @@
+E:\EDMSA\Code source Sprint 2\Dlls Livraison Sprint 2\LIVRAISON 2021 02 15 - SPRINT 2\SOURCES iWEBS_EDMSA 2021 02 15\Galatee.ModuleLoader
+Generated_Code\Galatee.Silverlight.Web.g.cs
