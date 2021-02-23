@@ -1,0 +1,368 @@
+26/01/2021 11:31:59 | RenderReport | loadData
+
+26/01/2021 11:31:59 | RenderReport | 02695113156274
+
+26/01/2021 11:31:59 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 11:31:59 | SyncInvokeGetCsPrintFromWebPart | 02695113156274
+
+26/01/2021 11:31:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 11:31:59 | LoadData | 02695113156274
+
+26/01/2021 11:31:59 | LoadData | données trouve
+
+26/01/2021 11:31:59 | LoadData | Parametre non trouvé
+
+26/01/2021 11:31:59 | data | data trouve data count: 27
+
+26/01/2021 11:31:59 | Page_Load | RenderReport retour ok
+
+26/01/2021 11:31:59 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021113159|xlsx
+
+26/01/2021 11:32:02 | RunExportFile | Générer byte
+
+26/01/2021 14:41:44 | RenderReport | loadData
+
+26/01/2021 14:41:44 | RenderReport | 02695144144284
+
+26/01/2021 14:41:44 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 14:41:44 | SyncInvokeGetCsPrintFromWebPart | 02695144144284
+
+26/01/2021 14:41:44 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 14:41:44 | LoadData | 02695144144284
+
+26/01/2021 14:41:44 | LoadData | données trouve
+
+26/01/2021 14:41:44 | LoadData | Parametre non trouvé
+
+26/01/2021 14:41:44 | data | data trouve data count: 27
+
+26/01/2021 14:41:44 | Page_Load | RenderReport retour ok
+
+26/01/2021 14:41:44 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021144144|xlsx
+
+26/01/2021 14:41:45 | RunExportFile | Générer byte
+
+26/01/2021 20:10:00 | RenderReport | loadData
+
+26/01/2021 20:10:00 | RenderReport | 0346620959982
+
+26/01/2021 20:10:00 | RenderReport | 0346620959861
+
+26/01/2021 20:10:00 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 20:10:00 | SyncInvokeGetCsPrintFromWebPart | 0346620959982
+
+26/01/2021 20:10:00 | SyncInvokeGetCsPrintFromWebPart | 0346620959861
+
+26/01/2021 20:10:00 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 20:10:00 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 20:10:00 | LoadData | 0346620959861
+
+26/01/2021 20:10:00 | LoadData | 0346620959982
+
+26/01/2021 20:10:00 | LoadData | données trouve
+
+26/01/2021 20:10:00 | LoadData | données trouve
+
+26/01/2021 20:10:00 | LoadData | Parametre trouvé
+
+26/01/2021 20:10:01 | LoadData | Parametre trouvé
+
+26/01/2021 20:10:01 | data | data trouve
+
+26/01/2021 20:10:01 | data | data trouve
+
+26/01/2021 20:10:01 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+26/01/2021 20:10:01 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+26/01/2021 20:10:02 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+26/01/2021 20:10:02 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+26/01/2021 20:10:02 | CreatePDFChemin | Add DataSources ok
+
+26/01/2021 20:10:02 | CreatePDFChemin | Add DataSources ok
+
+26/01/2021 20:10:02 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+26/01/2021 20:10:02 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+26/01/2021 20:10:02 | RunCreationPDF | Nom de réseau introuvable.
+
+
+26/01/2021 20:10:02 | RunCreationPDF | Nom de réseau introuvable.
+
+
+26/01/2021 20:25:10 | RenderReport | loadData
+
+26/01/2021 20:25:10 | RenderReport | loadData
+
+26/01/2021 20:25:10 | RenderReport | 0346620259967
+
+26/01/2021 20:25:10 | RenderReport | 0346620259958
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | 0346620259967
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | 0346620259958
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 20:25:10 | LoadData | 0346620259967
+
+26/01/2021 20:25:10 | LoadData | 0346620259958
+
+26/01/2021 20:25:10 | LoadData | données trouve
+
+26/01/2021 20:25:10 | LoadData | données trouve
+
+26/01/2021 20:25:10 | LoadData | Parametre trouvé
+
+26/01/2021 20:25:10 | LoadData | Parametre trouvé
+
+26/01/2021 20:25:10 | data | data trouve
+
+26/01/2021 20:25:10 | data | data trouve
+
+26/01/2021 20:25:10 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+26/01/2021 20:25:10 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+26/01/2021 20:25:10 | RenderReport | loadData
+
+26/01/2021 20:25:10 | RenderReport | loadData
+
+26/01/2021 20:25:10 | RenderReport | 0346620959861
+
+26/01/2021 20:25:10 | RenderReport | 0346620959982
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | 0346620959861
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 20:25:10 | LoadData | 0346620959861
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | 0346620959982
+
+26/01/2021 20:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 20:25:10 | LoadData | données trouve
+
+26/01/2021 20:25:10 | LoadData | 0346620959982
+
+26/01/2021 20:25:10 | LoadData | données trouve
+
+26/01/2021 20:25:10 | LoadData | Parametre trouvé
+
+26/01/2021 20:25:10 | data | data trouve
+
+26/01/2021 20:25:10 | LoadData | Parametre trouvé
+
+26/01/2021 20:25:10 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+26/01/2021 20:25:10 | data | data trouve
+
+26/01/2021 20:25:10 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+26/01/2021 20:25:10 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+26/01/2021 20:25:10 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+26/01/2021 20:25:10 | CreatePDFChemin | Add DataSources ok
+
+26/01/2021 20:25:10 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+26/01/2021 20:25:10 | CreatePDFChemin | Add DataSources ok
+
+26/01/2021 20:25:10 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+26/01/2021 20:25:10 | CreatePDFChemin | Add DataSources ok
+
+26/01/2021 20:25:10 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+26/01/2021 20:25:10 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+26/01/2021 20:25:11 | RunCreationPDF | Nom de réseau introuvable.
+
+
+26/01/2021 20:25:11 | RunCreationPDF | Nom de réseau introuvable.
+
+
+26/01/2021 20:25:11 | RunCreationPDF | Nom de réseau introuvable.
+
+
+26/01/2021 20:25:11 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+26/01/2021 20:25:11 | CreatePDFChemin | Add DataSources ok
+
+26/01/2021 20:28:28 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+26/01/2021 20:28:28 | RunCreationPDF | Nom de réseau introuvable.
+
+
+26/01/2021 22:20:42 | RenderReport | loadData
+
+26/01/2021 22:20:42 | RenderReport | 0131222204159
+
+26/01/2021 22:20:42 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 22:20:42 | SyncInvokeGetCsPrintFromWebPart | 0131222204159
+
+26/01/2021 22:20:42 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 22:20:42 | LoadData | 0131222204159
+
+26/01/2021 22:20:42 | LoadData | données trouve
+
+26/01/2021 22:20:42 | LoadData | Parametre non trouvé
+
+26/01/2021 22:20:42 | data | data trouve data count: 293
+
+26/01/2021 22:20:42 | Page_Load | RenderReport retour ok
+
+26/01/2021 22:20:42 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021222042|xlsx
+
+26/01/2021 22:20:46 | RunExportFile | Générer byte
+
+26/01/2021 22:23:58 | RenderReport | loadData
+
+26/01/2021 22:23:58 | RenderReport | 01312222237973
+
+26/01/2021 22:23:58 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 22:23:58 | SyncInvokeGetCsPrintFromWebPart | 01312222237973
+
+26/01/2021 22:23:58 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 22:23:58 | LoadData | 01312222237973
+
+26/01/2021 22:23:58 | LoadData | données trouve
+
+26/01/2021 22:23:58 | LoadData | Parametre non trouvé
+
+26/01/2021 22:23:58 | data | data trouve data count: 293
+
+26/01/2021 22:24:01 | Page_Load | RenderReport retour ok
+
+26/01/2021 22:24:18 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021222418|xlsx
+
+26/01/2021 22:24:21 | RunExportFile | Générer byte
+
+26/01/2021 22:41:06 | RenderReport | loadData
+
+26/01/2021 22:41:06 | RenderReport | 01312223846750
+
+26/01/2021 22:41:07 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 22:41:07 | SyncInvokeGetCsPrintFromWebPart | 01312223846750
+
+26/01/2021 22:41:07 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 22:41:07 | LoadData | 01312223846750
+
+26/01/2021 22:41:07 | LoadData | données trouve
+
+26/01/2021 22:41:07 | LoadData | Parametre non trouvé
+
+26/01/2021 22:41:07 | data | data trouve data count: 293
+
+26/01/2021 22:41:09 | Page_Load | RenderReport retour ok
+
+26/01/2021 22:41:43 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021224143|xlsx
+
+26/01/2021 22:41:46 | RunExportFile | Générer byte
+
+26/01/2021 22:43:42 | RenderReport | loadData
+
+26/01/2021 22:43:42 | RenderReport | 0131222433346
+
+26/01/2021 22:43:42 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 22:43:42 | SyncInvokeGetCsPrintFromWebPart | 0131222433346
+
+26/01/2021 22:43:42 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 22:43:42 | LoadData | 0131222433346
+
+26/01/2021 22:43:42 | LoadData | données trouve
+
+26/01/2021 22:43:42 | LoadData | Parametre non trouvé
+
+26/01/2021 22:43:42 | data | data trouve data count: 293
+
+26/01/2021 22:43:42 | Page_Load | RenderReport retour ok
+
+26/01/2021 22:44:31 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021224350|xlsx
+
+26/01/2021 22:44:35 | RunExportFile | Générer byte
+
+26/01/2021 22:48:47 | RenderReport | loadData
+
+26/01/2021 22:48:47 | RenderReport | 01312224846941
+
+26/01/2021 22:48:47 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 22:48:47 | SyncInvokeGetCsPrintFromWebPart | 01312224846941
+
+26/01/2021 22:48:47 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 22:48:47 | LoadData | 01312224846941
+
+26/01/2021 22:48:47 | LoadData | données trouve
+
+26/01/2021 22:48:47 | LoadData | Parametre non trouvé
+
+26/01/2021 22:48:47 | data | data trouve data count: 293
+
+26/01/2021 22:48:47 | Page_Load | RenderReport retour ok
+
+26/01/2021 22:49:47 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021224859|xlsx
+
+26/01/2021 22:50:18 | RunExportFile | Générer byte
+
+26/01/2021 22:56:01 | RenderReport | loadData
+
+26/01/2021 22:56:01 | RenderReport | 0131222561519
+
+26/01/2021 22:56:01 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+26/01/2021 22:56:01 | SyncInvokeGetCsPrintFromWebPart | 0131222561519
+
+26/01/2021 22:56:01 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+26/01/2021 22:56:01 | LoadData | 0131222561519
+
+26/01/2021 22:56:01 | LoadData | données trouve
+
+26/01/2021 22:56:01 | LoadData | Parametre non trouvé
+
+26/01/2021 22:56:01 | data | data trouve data count: 293
+
+26/01/2021 22:56:01 | Page_Load | RenderReport retour ok
+
+26/01/2021 22:56:21 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2612021225610|xlsx
+
+26/01/2021 22:56:25 | RunExportFile | Générer byte
+
+26/01/2021 22:56:34 | RunExportFile | Initialiser le filsStream
+
+26/01/2021 22:56:36 | RunExportFile | Création du fichier
+
+26/01/2021 22:56:36 | Page_Load | ICI3
+

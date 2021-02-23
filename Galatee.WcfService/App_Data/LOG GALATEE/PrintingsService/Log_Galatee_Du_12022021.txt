@@ -1,0 +1,400 @@
+12/02/2021 10:26:12 | RenderReport | loadData
+
+12/02/2021 10:26:12 | RenderReport | 0270410268534
+
+12/02/2021 10:26:12 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 10:26:12 | SyncInvokeGetCsPrintFromWebPart | 0270410268534
+
+12/02/2021 10:26:12 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 10:26:12 | LoadData | 0270410268534
+
+12/02/2021 10:26:12 | LoadData | données trouve
+
+12/02/2021 10:26:12 | LoadData | Parametre trouvé
+
+12/02/2021 10:26:12 | data | data trouve
+
+12/02/2021 10:26:12 | CreatePDFChemin | ~/Reports/Recouvrement/MiseAJourGrandCompte.rdlc | Chemin du fichier rdlc
+
+12/02/2021 10:26:14 | CreatePDFChemin | pUserMiseAJour : System.Collections.Specialized.StringCollection  pUserMiseAJour : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 10:26:14 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 10:26:14 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 10:58:57 | RenderReport | loadData
+
+12/02/2021 10:58:57 | RenderReport | 02704105856668
+
+12/02/2021 10:58:57 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 10:58:57 | SyncInvokeGetCsPrintFromWebPart | 02704105856668
+
+12/02/2021 10:58:57 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 10:58:58 | LoadData | 02704105856668
+
+12/02/2021 10:58:58 | LoadData | données trouve
+
+12/02/2021 10:58:58 | LoadData | Parametre trouvé
+
+12/02/2021 10:58:58 | data | data trouve data count: 10
+
+12/02/2021 10:58:59 | Page_Load | RenderReport retour ok
+
+12/02/2021 10:58:59 | RunExportFile | \\PC-DEV-010\Impression|PreavisDeCoupurParAbon1222021105859|doc
+
+12/02/2021 10:59:00 | Page_Load | ICI3
+
+12/02/2021 11:49:50 | RenderReport | loadData
+
+12/02/2021 11:49:50 | RenderReport | 02704114949766
+
+12/02/2021 11:49:50 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 11:49:50 | SyncInvokeGetCsPrintFromWebPart | 02704114949766
+
+12/02/2021 11:49:50 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 11:49:51 | LoadData | 02704114949766
+
+12/02/2021 11:49:51 | LoadData | données trouve
+
+12/02/2021 11:49:51 | LoadData | Parametre trouvé
+
+12/02/2021 11:49:51 | data | data trouve data count: 167
+
+12/02/2021 11:49:52 | Page_Load | RenderReport retour ok
+
+12/02/2021 11:49:52 | RunExportFile | \\PC-DEV-010\Impression|PreavisDeCoupurParAbon1222021114952|doc
+
+12/02/2021 11:49:58 | Page_Load | ICI3
+
+12/02/2021 13:54:41 | RenderReport | loadData
+
+12/02/2021 13:54:41 | RenderReport | 02704135437408
+
+12/02/2021 13:54:41 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 13:54:41 | SyncInvokeGetCsPrintFromWebPart | 02704135437408
+
+12/02/2021 13:54:41 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 13:54:41 | LoadData | 02704135437408
+
+12/02/2021 13:54:41 | LoadData | données trouve
+
+12/02/2021 13:54:41 | LoadData | Parametre trouvé
+
+12/02/2021 13:54:42 | data | data trouve data count: 167
+
+12/02/2021 13:54:44 | Page_Load | RenderReport retour ok
+
+12/02/2021 13:54:44 | RunExportFile | \\PC-DEV-010\Impression|PreavisDeCoupur1222021135444|doc
+
+12/02/2021 13:54:48 | Page_Load | ICI3
+
+12/02/2021 13:55:32 | RenderReport | loadData
+
+12/02/2021 13:55:32 | RenderReport | 0270413553287
+
+12/02/2021 13:55:32 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 13:55:32 | SyncInvokeGetCsPrintFromWebPart | 0270413553287
+
+12/02/2021 13:55:32 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 13:55:32 | LoadData | 0270413553287
+
+12/02/2021 13:55:32 | LoadData | données trouve
+
+12/02/2021 13:55:32 | LoadData | Parametre trouvé
+
+12/02/2021 13:55:32 | data | data trouve data count: 167
+
+12/02/2021 13:55:32 | Page_Load | RenderReport retour ok
+
+12/02/2021 13:55:32 | RunExportFile | \\PC-DEV-010\Impression|PreavisDeCoupurParAbon1222021135532|doc
+
+12/02/2021 13:55:37 | Page_Load | ICI3
+
+12/02/2021 14:03:30 | RenderReport | loadData
+
+12/02/2021 14:03:31 | RenderReport | 0229914330647
+
+12/02/2021 14:03:31 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 14:03:31 | SyncInvokeGetCsPrintFromWebPart | 0229914330647
+
+12/02/2021 14:03:31 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 14:03:31 | LoadData | 0229914330647
+
+12/02/2021 14:03:31 | LoadData | données trouve
+
+12/02/2021 14:03:31 | LoadData | Parametre non trouvé
+
+12/02/2021 14:03:31 | data | data trouve
+
+12/02/2021 14:03:31 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+12/02/2021 14:03:31 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 14:03:31 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 14:21:36 | RenderReport | loadData
+
+12/02/2021 14:21:36 | RenderReport | 02299142135723
+
+12/02/2021 14:21:36 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 14:21:36 | SyncInvokeGetCsPrintFromWebPart | 02299142135723
+
+12/02/2021 14:21:36 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 14:21:37 | LoadData | 02299142135723
+
+12/02/2021 14:21:37 | LoadData | données trouve
+
+12/02/2021 14:21:37 | LoadData | Parametre trouvé
+
+12/02/2021 14:21:37 | data | data trouve
+
+12/02/2021 14:21:37 | CreatePDFChemin | ~/Reports/Facturation/FactureSimple.rdlc | Chemin du fichier rdlc
+
+12/02/2021 14:21:38 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 14:21:38 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 14:21:38 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 14:21:49 | RenderReport | loadData
+
+12/02/2021 14:21:49 | RenderReport | 02299142149331
+
+12/02/2021 14:21:49 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 14:21:49 | SyncInvokeGetCsPrintFromWebPart | 02299142149331
+
+12/02/2021 14:21:49 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 14:21:49 | LoadData | 02299142149331
+
+12/02/2021 14:21:49 | LoadData | données trouve
+
+12/02/2021 14:21:49 | LoadData | Parametre trouvé
+
+12/02/2021 14:21:49 | data | data trouve
+
+12/02/2021 14:21:49 | CreatePDFChemin | ~/Reports/Facturation/FactureSimple.rdlc | Chemin du fichier rdlc
+
+12/02/2021 14:21:49 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 14:21:50 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 14:21:50 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 14:24:53 | RenderReport | loadData
+
+12/02/2021 14:24:53 | RenderReport | 02299142453179
+
+12/02/2021 14:24:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 14:24:53 | SyncInvokeGetCsPrintFromWebPart | 02299142453179
+
+12/02/2021 14:24:53 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 14:24:53 | LoadData | 02299142453179
+
+12/02/2021 14:24:53 | LoadData | données trouve
+
+12/02/2021 14:24:53 | LoadData | Parametre trouvé
+
+12/02/2021 14:24:53 | data | data trouve
+
+12/02/2021 14:24:53 | CreatePDFChemin | ~/Reports/Facturation/FactureSimple.rdlc | Chemin du fichier rdlc
+
+12/02/2021 14:24:53 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 14:24:53 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 14:24:54 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 16:22:15 | RenderReport | loadData
+
+12/02/2021 16:22:15 | RenderReport | 02299162214365
+
+12/02/2021 16:22:15 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 16:22:15 | SyncInvokeGetCsPrintFromWebPart | 02299162214365
+
+12/02/2021 16:22:15 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 16:22:16 | LoadData | 02299162214365
+
+12/02/2021 16:22:16 | LoadData | données trouve
+
+12/02/2021 16:22:16 | LoadData | Parametre non trouvé
+
+12/02/2021 16:22:16 | data | data trouve
+
+12/02/2021 16:22:16 | CreatePDFChemin | ~/Reports/Reclamation/FicheDeTravail.rdlc | Chemin du fichier rdlc
+
+12/02/2021 16:22:16 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 16:22:16 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 16:25:20 | RenderReport | loadData
+
+12/02/2021 16:25:20 | RenderReport | 02299162519836
+
+12/02/2021 16:25:20 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 16:25:20 | SyncInvokeGetCsPrintFromWebPart | 02299162519836
+
+12/02/2021 16:25:20 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 16:25:20 | LoadData | 02299162519836
+
+12/02/2021 16:25:20 | LoadData | données trouve
+
+12/02/2021 16:25:20 | LoadData | Parametre non trouvé
+
+12/02/2021 16:25:20 | data | data trouve
+
+12/02/2021 16:25:20 | CreatePDFChemin | ~/Reports/Reclamation/FicheDeTravail.rdlc | Chemin du fichier rdlc
+
+12/02/2021 16:25:20 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 16:25:20 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 16:33:35 | RenderReport | loadData
+
+12/02/2021 16:33:35 | RenderReport | 02299163335117
+
+12/02/2021 16:33:35 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 16:33:35 | SyncInvokeGetCsPrintFromWebPart | 02299163335117
+
+12/02/2021 16:33:35 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 16:33:35 | LoadData | 02299163335117
+
+12/02/2021 16:33:35 | LoadData | données trouve
+
+12/02/2021 16:33:35 | LoadData | Parametre non trouvé
+
+12/02/2021 16:33:35 | data | data trouve data count: 11
+
+12/02/2021 16:33:35 | Page_Load | RenderReport retour ok
+
+12/02/2021 16:33:35 | RunExportFile | \\PC-DEV-010\Impression|RegistreDemande1222021163335|xlsx
+
+12/02/2021 16:33:37 | RunExportFile | Générer byte
+
+12/02/2021 16:33:37 | RunExportFile | Initialiser le filsStream
+
+12/02/2021 16:33:37 | RunExportFile | Création du fichier
+
+12/02/2021 16:33:37 | Page_Load | ICI3
+
+12/02/2021 18:12:06 | RenderReport | loadData
+
+12/02/2021 18:12:07 | RenderReport | 0120718125143
+
+12/02/2021 18:12:07 | RenderReport | 0120718125334
+
+12/02/2021 18:12:07 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 18:12:07 | SyncInvokeGetCsPrintFromWebPart | 0120718125143
+
+12/02/2021 18:12:07 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 18:12:07 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 18:12:07 | LoadData | 0120718125334
+
+12/02/2021 18:12:07 | LoadData | 0120718125143
+
+12/02/2021 18:12:07 | LoadData | données trouve
+
+12/02/2021 18:12:07 | LoadData | données trouve
+
+12/02/2021 18:12:07 | LoadData | Parametre trouvé
+
+12/02/2021 18:12:07 | LoadData | Parametre trouvé
+
+12/02/2021 18:12:07 | data | data trouve
+
+12/02/2021 18:12:07 | data | data trouve
+
+12/02/2021 18:12:07 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+12/02/2021 18:12:07 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+12/02/2021 18:12:09 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 18:12:09 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 18:12:09 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 18:12:09 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 18:12:09 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 18:12:09 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 18:13:02 | RenderReport | loadData
+
+12/02/2021 18:13:02 | RenderReport | loadData
+
+12/02/2021 18:13:02 | RenderReport | 0120718132852
+
+12/02/2021 18:13:02 | RenderReport | 0120718132845
+
+12/02/2021 18:13:03 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+12/02/2021 18:13:03 | SyncInvokeGetCsPrintFromWebPart | 0120718132845
+
+12/02/2021 18:13:03 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+
+
+12/02/2021 18:13:03 | SyncInvokeGetCsPrintFromWebPart | 0120718132852
+
+12/02/2021 18:13:03 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+12/02/2021 18:13:03 | LoadData | 0120718132845
+
+12/02/2021 18:13:03 | LoadData | 0120718132852
+
+12/02/2021 18:13:03 | LoadData | données trouve
+
+12/02/2021 18:13:03 | LoadData | données trouve
+
+12/02/2021 18:13:03 | LoadData | Parametre trouvé
+
+12/02/2021 18:13:03 | LoadData | Parametre trouvé
+
+12/02/2021 18:13:03 | data | data trouve
+
+12/02/2021 18:13:03 | data | data trouve
+
+12/02/2021 18:13:03 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+12/02/2021 18:13:03 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+12/02/2021 18:13:04 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 18:13:04 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 18:13:04 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+12/02/2021 18:13:04 | CreatePDFChemin | Add DataSources ok
+
+12/02/2021 18:13:04 | RunCreationPDF | \\PC-DEV-010\Impression
+
+12/02/2021 18:13:04 | RunCreationPDF | \\PC-DEV-010\Impression
+

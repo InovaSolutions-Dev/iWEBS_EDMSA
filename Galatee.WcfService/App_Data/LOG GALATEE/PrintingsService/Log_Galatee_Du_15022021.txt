@@ -1,0 +1,124 @@
+15/02/2021 08:19:43 | RenderReport | loadData
+
+15/02/2021 08:19:43 | RenderReport | 0229981941631
+
+15/02/2021 08:19:43 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/02/2021 08:19:43 | SyncInvokeGetCsPrintFromWebPart | 0229981941631
+
+15/02/2021 08:19:43 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/02/2021 08:19:44 | LoadData | 0229981941631
+
+15/02/2021 08:19:44 | LoadData | données trouve
+
+15/02/2021 08:19:44 | LoadData | Parametre non trouvé
+
+15/02/2021 08:19:44 | data | data trouve
+
+15/02/2021 08:19:44 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+15/02/2021 08:19:44 | CreatePDFChemin | Add DataSources ok
+
+15/02/2021 08:19:44 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+15/02/2021 11:37:46 | RenderReport | loadData
+
+15/02/2021 11:37:46 | RenderReport | 02299113745560
+
+15/02/2021 11:37:46 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/02/2021 11:37:46 | SyncInvokeGetCsPrintFromWebPart | 02299113745560
+
+15/02/2021 11:37:46 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/02/2021 11:37:46 | LoadData | 02299113745560
+
+15/02/2021 11:37:46 | LoadData | données trouve
+
+15/02/2021 11:37:46 | LoadData | Parametre trouvé
+
+15/02/2021 11:37:46 | data | data trouve
+
+15/02/2021 11:37:46 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+15/02/2021 11:37:47 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/02/2021 11:37:47 | CreatePDFChemin | Add DataSources ok
+
+15/02/2021 11:37:47 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+15/02/2021 11:40:14 | RenderReport | loadData
+
+15/02/2021 11:40:14 | RenderReport | 02299113935352
+
+15/02/2021 11:40:14 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/02/2021 11:40:14 | SyncInvokeGetCsPrintFromWebPart | 02299113935352
+
+15/02/2021 11:40:15 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/02/2021 11:40:17 | LoadData | 02299113935352
+
+15/02/2021 11:40:17 | LoadData | données trouve
+
+15/02/2021 11:40:18 | LoadData | Parametre trouvé
+
+15/02/2021 11:40:18 | data | data trouve
+
+15/02/2021 11:40:18 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+15/02/2021 11:40:19 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/02/2021 11:40:19 | CreatePDFChemin | Add DataSources ok
+
+15/02/2021 11:40:19 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+15/02/2021 12:05:59 | RenderReport | loadData
+
+15/02/2021 12:05:59 | RenderReport | 0229912559150
+
+15/02/2021 12:05:59 | RenderReport | 0229912550558
+
+15/02/2021 12:05:59 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/02/2021 12:05:59 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/02/2021 12:05:59 | SyncInvokeGetCsPrintFromWebPart | 0229912559150
+
+15/02/2021 12:05:59 | SyncInvokeGetCsPrintFromWebPart | 0229912550558
+
+15/02/2021 12:05:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/02/2021 12:05:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/02/2021 12:06:00 | LoadData | 0229912559150
+
+15/02/2021 12:06:00 | LoadData | 0229912550558
+
+15/02/2021 12:06:00 | LoadData | données trouve
+
+15/02/2021 12:06:00 | LoadData | données trouve
+
+15/02/2021 12:06:00 | LoadData | Parametre non trouvé
+
+15/02/2021 12:06:00 | LoadData | Parametre trouvé
+
+15/02/2021 12:06:00 | data | data trouve data count: 9
+
+15/02/2021 12:06:00 | data | data trouve
+
+15/02/2021 12:06:00 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+15/02/2021 12:06:00 | Page_Load | RenderReport retour ok
+
+15/02/2021 12:06:00 | RunExportFile | \\LAP-IVS-01\Impression|Devis15220211260|doc
+
+15/02/2021 12:06:00 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+15/02/2021 12:06:01 | CreatePDFChemin | Add DataSources ok
+
+15/02/2021 12:06:01 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+15/02/2021 12:06:01 | Page_Load | ICI3
+

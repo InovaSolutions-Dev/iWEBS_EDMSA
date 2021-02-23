@@ -1,0 +1,96 @@
+22/01/2021 12:34:58 | RenderReport | loadData
+
+22/01/2021 12:34:58 | RenderReport | 02695123455862
+
+22/01/2021 12:34:58 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+22/01/2021 12:34:58 | SyncInvokeGetCsPrintFromWebPart | 02695123455862
+
+22/01/2021 12:34:58 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+22/01/2021 12:34:59 | LoadData | 02695123455862
+
+22/01/2021 12:34:59 | LoadData | données trouve
+
+22/01/2021 12:34:59 | LoadData | Parametre non trouvé
+
+22/01/2021 12:34:59 | data | data trouve data count: 260
+
+22/01/2021 12:34:59 | Page_Load | RenderReport retour ok
+
+22/01/2021 12:34:59 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2212021123459|xlsx
+
+22/01/2021 12:35:03 | RunExportFile | Générer byte
+
+22/01/2021 12:55:45 | RenderReport | loadData
+
+22/01/2021 12:55:45 | RenderReport | 02695125544642
+
+22/01/2021 12:55:45 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+22/01/2021 12:55:45 | SyncInvokeGetCsPrintFromWebPart | 02695125544642
+
+22/01/2021 12:55:45 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+22/01/2021 12:55:46 | LoadData | 02695125544642
+
+22/01/2021 12:55:46 | LoadData | données trouve
+
+22/01/2021 12:55:46 | LoadData | Parametre non trouvé
+
+22/01/2021 12:55:46 | data | data trouve data count: 153
+
+22/01/2021 12:55:46 | Page_Load | RenderReport retour ok
+
+22/01/2021 12:55:46 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2212021125546|xlsx
+
+22/01/2021 12:55:49 | RunExportFile | Générer byte
+
+22/01/2021 13:36:27 | RenderReport | loadData
+
+22/01/2021 13:36:27 | RenderReport | 02695133626246
+
+22/01/2021 13:36:27 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+22/01/2021 13:36:27 | SyncInvokeGetCsPrintFromWebPart | 02695133626246
+
+22/01/2021 13:36:27 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+22/01/2021 13:36:27 | LoadData | 02695133626246
+
+22/01/2021 13:36:27 | LoadData | données trouve
+
+22/01/2021 13:36:27 | LoadData | Parametre non trouvé
+
+22/01/2021 13:36:27 | data | data trouve data count: 153
+
+22/01/2021 13:36:27 | Page_Load | RenderReport retour ok
+
+22/01/2021 13:36:27 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2212021133627|xlsx
+
+22/01/2021 13:36:30 | RunExportFile | Générer byte
+
+22/01/2021 13:37:13 | RenderReport | loadData
+
+22/01/2021 13:37:13 | RenderReport | 02695133713582
+
+22/01/2021 13:37:13 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+22/01/2021 13:37:13 | SyncInvokeGetCsPrintFromWebPart | 02695133713582
+
+22/01/2021 13:37:13 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+22/01/2021 13:37:13 | LoadData | 02695133713582
+
+22/01/2021 13:37:13 | LoadData | données trouve
+
+22/01/2021 13:37:13 | LoadData | Parametre non trouvé
+
+22/01/2021 13:37:13 | data | data trouve data count: 153
+
+22/01/2021 13:37:13 | Page_Load | RenderReport retour ok
+
+22/01/2021 13:37:13 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande2212021133713|xlsx
+
+22/01/2021 13:37:15 | RunExportFile | Générer byte
+

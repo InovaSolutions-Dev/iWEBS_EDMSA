@@ -1,0 +1,228 @@
+06/01/2021 02:50:10 | RenderReport | loadData
+
+06/01/2021 02:50:10 | RenderReport | 034662507211
+
+06/01/2021 02:50:10 | RenderReport | 034662507334
+
+06/01/2021 02:50:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 02:50:10 | SyncInvokeGetCsPrintFromWebPart | 034662507211
+
+06/01/2021 02:50:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 02:50:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 02:50:10 | SyncInvokeGetCsPrintFromWebPart | 034662507334
+
+06/01/2021 02:50:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 02:50:10 | LoadData | 034662507211
+
+06/01/2021 02:50:10 | LoadData | 034662507334
+
+06/01/2021 02:50:10 | LoadData | données trouve
+
+06/01/2021 02:50:10 | LoadData | données trouve
+
+06/01/2021 02:50:10 | LoadData | Parametre trouvé
+
+06/01/2021 02:50:10 | LoadData | Parametre trouvé
+
+06/01/2021 02:50:10 | data | data trouve
+
+06/01/2021 02:50:10 | data | data trouve
+
+06/01/2021 02:50:11 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 02:50:11 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 02:50:12 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 02:50:12 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 02:50:12 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 02:50:12 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 02:50:12 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 02:50:12 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 02:50:14 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+
+06/01/2021 02:50:14 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+
+06/01/2021 02:51:41 | RenderReport | loadData
+
+06/01/2021 02:51:41 | RenderReport | 0346625140948
+
+06/01/2021 02:51:41 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 02:51:41 | RenderReport | loadData
+
+06/01/2021 02:51:41 | SyncInvokeGetCsPrintFromWebPart | 0346625140948
+
+06/01/2021 02:51:41 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 02:51:41 | RenderReport | 0346625140956
+
+06/01/2021 02:51:41 | LoadData | 0346625140948
+
+06/01/2021 02:51:41 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 02:51:41 | LoadData | données trouve
+
+t | 0346625140956
+
+06/01/2021 02:51:41 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 02:51:41 | LoadData | Parametre trouvé
+
+06/01/2021 02:51:41 | LoadData | 0346625140956
+
+06/01/2021 02:51:41 | data | data trouve
+
+06/01/2021 02:51:41 | LoadData | données trouve
+
+06/01/2021 02:51:41 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 02:51:41 | LoadData | Parametre trouvé
+
+06/01/2021 02:51:41 | data | data trouve
+
+06/01/2021 02:51:41 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 02:51:41 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 02:51:41 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 02:51:41 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 02:51:41 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 02:51:41 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 02:51:41 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 02:51:43 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+
+06/01/2021 02:51:43 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+
+06/01/2021 03:24:01 | RenderReport | loadData
+
+06/01/2021 03:24:01 | RenderReport | loadData
+
+06/01/2021 03:24:01 | RenderReport | 034663241647
+
+06/01/2021 03:24:01 | RenderReport | 034663241523
+
+06/01/2021 03:24:01 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 03:24:01 | SyncInvokeGetCsPrintFromWebPart | 034663241647
+
+06/01/2021 03:24:01 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 03:24:01 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 03:24:01 | SyncInvokeGetCsPrintFromWebPart | 034663241523
+
+06/01/2021 03:24:01 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 03:24:01 | LoadData | 034663241647
+
+06/01/2021 03:24:01 | LoadData | 034663241523
+
+06/01/2021 03:24:01 | LoadData | données trouve
+
+06/01/2021 03:24:01 | LoadData | données trouve
+
+06/01/2021 03:24:01 | LoadData | Parametre trouvé
+
+06/01/2021 03:24:01 | data | data trouve
+
+06/01/2021 03:24:01 | LoadData | Parametre trouvé
+
+06/01/2021 03:24:01 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 03:24:01 | data | data trouve
+
+06/01/2021 03:24:02 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 03:24:02 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 03:24:02 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 03:24:02 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 03:24:02 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 03:24:02 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 03:24:02 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 03:24:04 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+
+06/01/2021 03:24:04 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+
+06/01/2021 03:30:54 | RenderReport | loadData
+
+06/01/2021 03:30:54 | RenderReport | 0346633054515
+
+06/01/2021 03:30:54 | RenderReport | 0346633054524
+
+06/01/2021 03:30:54 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 03:30:54 | SyncInvokeGetCsPrintFromWebPart | 0346633054515
+
+06/01/2021 03:30:54 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/01/2021 03:30:54 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 03:30:54 | SyncInvokeGetCsPrintFromWebPart | 0346633054524
+
+06/01/2021 03:30:54 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/01/2021 03:30:54 | LoadData | 0346633054515
+
+06/01/2021 03:30:54 | LoadData | 0346633054524
+
+06/01/2021 03:30:54 | LoadData | données trouve
+
+06/01/2021 03:30:54 | LoadData | données trouve
+
+06/01/2021 03:30:54 | LoadData | Parametre trouvé
+
+06/01/2021 03:30:54 | LoadData | Parametre trouvé
+
+06/01/2021 03:30:54 | data | data trouve
+
+06/01/2021 03:30:54 | data | data trouve
+
+06/01/2021 03:30:54 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 03:30:54 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+06/01/2021 03:30:55 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 03:30:55 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+06/01/2021 03:30:55 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 03:30:55 | CreatePDFChemin | Add DataSources ok
+
+06/01/2021 03:30:55 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 03:30:55 | RunCreationPDF | \\LAP_IV_IWEBS01\Impression
+
+06/01/2021 03:30:58 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+
+06/01/2021 03:30:58 | RunCreationPDF | Le chemin réseau n’a pas été trouvé.
+
+

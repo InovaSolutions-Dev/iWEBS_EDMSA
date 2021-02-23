@@ -1,0 +1,78 @@
+11/02/2021 10:41:29 | RenderReport | loadData
+
+11/02/2021 10:41:29 | RenderReport | 0229910411430
+
+11/02/2021 10:41:29 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+11/02/2021 10:41:29 | SyncInvokeGetCsPrintFromWebPart | 0229910411430
+
+11/02/2021 10:41:29 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+11/02/2021 10:41:29 | LoadData | 0229910411430
+
+11/02/2021 10:41:29 | LoadData | données trouve
+
+11/02/2021 10:41:29 | LoadData | Parametre trouvé
+
+11/02/2021 10:41:29 | data | data trouve
+
+11/02/2021 10:41:29 | CreatePDFChemin | ~/Reports/Accueil/DevisExtension.rdlc | Chemin du fichier rdlc
+
+11/02/2021 10:41:32 | CreatePDFChemin | pDate : System.Collections.Specialized.StringCollection  pObjet2 : System.Collections.Specialized.StringCollection | Set Parameters
+
+11/02/2021 10:41:32 | CreatePDFChemin | Add DataSources ok
+
+11/02/2021 10:41:32 | RunCreationPDF | \\PC-DEV-010\Impression
+
+11/02/2021 10:41:32 | RunCreationPDF | L'accès au chemin d'accès '\\PC-DEV-010\Impression\DevisExtension1122021104132.PDF' est refusé.
+
+11/02/2021 10:43:18 | RenderReport | loadData
+
+11/02/2021 10:43:18 | RenderReport | 02299104315960
+
+11/02/2021 10:43:18 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+11/02/2021 10:43:18 | SyncInvokeGetCsPrintFromWebPart | 02299104315960
+
+11/02/2021 10:43:18 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+11/02/2021 10:43:18 | LoadData | 02299104315960
+
+11/02/2021 10:43:18 | LoadData | données trouve
+
+11/02/2021 10:43:18 | LoadData | Parametre trouvé
+
+11/02/2021 10:43:18 | data | data trouve
+
+11/02/2021 10:43:18 | CreatePDFChemin | ~/Reports/Accueil/DevisExtension.rdlc | Chemin du fichier rdlc
+
+11/02/2021 10:43:18 | CreatePDFChemin | pDate : System.Collections.Specialized.StringCollection  pObjet2 : System.Collections.Specialized.StringCollection | Set Parameters
+
+11/02/2021 10:43:18 | CreatePDFChemin | Add DataSources ok
+
+11/02/2021 10:43:18 | RunCreationPDF | \\PC-DEV-010\Impression
+
+11/02/2021 14:03:09 | RenderReport | loadData
+
+11/02/2021 14:03:09 | RenderReport | 022991433521
+
+11/02/2021 14:03:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+11/02/2021 14:03:09 | SyncInvokeGetCsPrintFromWebPart | 022991433521
+
+11/02/2021 14:03:09 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+11/02/2021 14:03:10 | LoadData | 022991433521
+
+11/02/2021 14:03:10 | LoadData | données trouve
+
+11/02/2021 14:03:10 | LoadData | Parametre non trouvé
+
+11/02/2021 14:03:10 | data | data trouve
+
+11/02/2021 14:03:10 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+11/02/2021 14:03:10 | CreatePDFChemin | Add DataSources ok
+
+11/02/2021 14:03:10 | RunCreationPDF | \\PC-DEV-010\Impression
+

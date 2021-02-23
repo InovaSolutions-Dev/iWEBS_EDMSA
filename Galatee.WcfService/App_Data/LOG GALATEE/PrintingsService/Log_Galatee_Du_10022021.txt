@@ -1,0 +1,106 @@
+10/02/2021 03:26:20 | RenderReport | loadData
+
+10/02/2021 03:26:20 | RenderReport | 028053261320
+
+10/02/2021 03:26:20 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+10/02/2021 03:26:20 | SyncInvokeGetCsPrintFromWebPart | 028053261320
+
+10/02/2021 03:26:20 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+10/02/2021 03:26:20 | LoadData | 028053261320
+
+10/02/2021 03:26:20 | LoadData | Aucune données
+
+10/02/2021 03:26:20 | LoadData | Parametre non trouvé
+
+10/02/2021 03:26:20 | data | data Aucun
+
+10/02/2021 03:26:20 | Page_Load | RenderReport retour ok
+
+10/02/2021 03:26:25 | RunExportFile | \\LAP-IVS-01\Impression|Operation102202132620|xlsx
+
+10/02/2021 05:15:07 | RenderReport | loadData
+
+10/02/2021 05:15:07 | RenderReport | 013125156252
+
+10/02/2021 05:15:07 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+10/02/2021 05:15:07 | SyncInvokeGetCsPrintFromWebPart | 013125156252
+
+10/02/2021 05:15:07 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+10/02/2021 05:15:07 | LoadData | 013125156252
+
+10/02/2021 05:15:07 | LoadData | données trouve
+
+10/02/2021 05:15:07 | LoadData | Parametre non trouvé
+
+10/02/2021 05:15:07 | data | data trouve data count: 11
+
+10/02/2021 05:15:07 | Page_Load | RenderReport retour ok
+
+10/02/2021 05:15:09 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande10220215157|xlsx
+
+10/02/2021 05:15:12 | RunExportFile | Générer byte
+
+10/02/2021 05:15:12 | RunExportFile | Initialiser le filsStream
+
+10/02/2021 05:15:12 | RunExportFile | Création du fichier
+
+10/02/2021 05:15:12 | Page_Load | ICI3
+
+10/02/2021 05:19:29 | RenderReport | loadData
+
+10/02/2021 05:19:29 | RenderReport | 0131251929846
+
+10/02/2021 05:19:29 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+10/02/2021 05:19:29 | SyncInvokeGetCsPrintFromWebPart | 0131251929846
+
+10/02/2021 05:19:29 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+10/02/2021 05:19:29 | LoadData | 0131251929846
+
+10/02/2021 05:19:29 | LoadData | données trouve
+
+10/02/2021 05:19:30 | LoadData | Parametre non trouvé
+
+10/02/2021 05:19:30 | data | data trouve data count: 11
+
+10/02/2021 05:19:30 | Page_Load | RenderReport retour ok
+
+10/02/2021 05:19:35 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande102202151930|xlsx
+
+10/02/2021 05:19:36 | RunExportFile | Générer byte
+
+10/02/2021 05:19:36 | RunExportFile | Initialiser le filsStream
+
+10/02/2021 05:19:36 | RunExportFile | Création du fichier
+
+10/02/2021 05:19:36 | Page_Load | ICI3
+
+10/02/2021 06:30:17 | RenderReport | loadData
+
+10/02/2021 06:30:17 | RenderReport | 0296163016848
+
+10/02/2021 06:30:17 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+10/02/2021 06:30:17 | SyncInvokeGetCsPrintFromWebPart | 0296163016848
+
+10/02/2021 06:30:17 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+10/02/2021 06:30:17 | LoadData | 0296163016848
+
+10/02/2021 06:30:17 | LoadData | données trouve
+
+10/02/2021 06:30:17 | LoadData | Parametre non trouvé
+
+10/02/2021 06:30:17 | data | data trouve
+
+10/02/2021 06:30:17 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+10/02/2021 06:30:17 | CreatePDFChemin | Add DataSources ok
+
+10/02/2021 06:30:17 | RunCreationPDF | \\LAP-IVS-01\Impression
+

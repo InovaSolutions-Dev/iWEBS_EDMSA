@@ -1,0 +1,54 @@
+25/01/2021 02:22:18 | RenderReport | loadData
+
+25/01/2021 02:22:18 | RenderReport | 0269522215533
+
+25/01/2021 02:22:18 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+25/01/2021 02:22:18 | SyncInvokeGetCsPrintFromWebPart | 0269522215533
+
+25/01/2021 02:22:18 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+25/01/2021 02:22:18 | LoadData | 0269522215533
+
+25/01/2021 02:22:18 | LoadData | données trouve
+
+25/01/2021 02:22:18 | LoadData | Parametre non trouvé
+
+25/01/2021 02:22:18 | data | data trouve
+
+25/01/2021 02:22:18 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+25/01/2021 02:22:19 | CreatePDFChemin | Add DataSources ok
+
+25/01/2021 02:22:19 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+25/01/2021 02:22:20 | RunCreationPDF | Nom de réseau introuvable.
+
+
+25/01/2021 03:10:08 | RenderReport | loadData
+
+25/01/2021 03:10:08 | RenderReport | 026953107200
+
+25/01/2021 03:10:08 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+25/01/2021 03:10:08 | SyncInvokeGetCsPrintFromWebPart | 026953107200
+
+25/01/2021 03:10:08 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+25/01/2021 03:10:08 | LoadData | 026953107200
+
+25/01/2021 03:10:08 | LoadData | données trouve
+
+25/01/2021 03:10:08 | LoadData | Parametre non trouvé
+
+25/01/2021 03:10:08 | data | data trouve
+
+25/01/2021 03:10:08 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+25/01/2021 03:10:08 | CreatePDFChemin | Add DataSources ok
+
+25/01/2021 03:10:08 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+25/01/2021 03:10:09 | RunCreationPDF | Nom de réseau introuvable.
+
+
