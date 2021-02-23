@@ -1,0 +1,100 @@
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\EntityFramework.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Oracle.DataAccess.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\INOVA.GALATEE.SECURITY.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.dll
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.pdb
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Impression\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\EntityFramework.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Oracle.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\INOVA.GALATEE.SECURITY.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.dll
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.pdb
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+G:\iWEBS_EDMSA-ZEG\iWEBS_EDMSA-ZEG\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\EntityFramework.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Oracle.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\INOVA.GALATEE.SECURITY.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+G:\iWEBS_EDMSA-ZEG\SPRINT 2\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\EntityFramework.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Newtonsoft.Json.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Oracle.DataAccess.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\INOVA.GALATEE.SECURITY.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.dll
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.DataAccess.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Structure.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\WcfService.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Entity.Model.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Tools.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\bin\Release\Galatee.Security.pdb
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+G:\iWEBS_EDMSA-ZEG\SPRINT 3 - Copie\iWEBS_EDMSA\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
